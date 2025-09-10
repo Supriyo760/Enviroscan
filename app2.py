@@ -271,8 +271,7 @@ streamlit_process = subprocess.Popen(["streamlit", "run", "app.py"])
 time.sleep(15)  # Increase if needed
 
 # Open ngrok tunnel to port 8501
-public_url = ngrok.connect(8501)
-print(f"🌐 Your Streamlit app is live at: {public_url}")
+
 
 # Keep process alive to maintain server & tunnel
 try:
