@@ -166,7 +166,6 @@ with open("app.py", "w") as f:
 time.sleep(5)
 
 # ✅ Step 10: Open an ngrok tunnel to port 8501
-public_url = ngrok.connect(8501)
 
 # ✅ Step 11: Print the public URL
 print("🌐 Your Streamlit app is live at:", public_url)
