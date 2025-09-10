@@ -160,7 +160,7 @@ with open("app.py", "w") as f:
     f.write(app_code)
 
 # ✅ Step 8: Start the Streamlit app in the background
-!streamlit run app.py &> /content/logs.txt &
+
 
 # ✅ Step 9: Wait a few seconds for the app to boot
 time.sleep(5)
