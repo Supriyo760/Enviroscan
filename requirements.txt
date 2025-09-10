@@ -1,5 +1,9 @@
 streamlit
-osmnx
+osmnx==1.9.3
 pandas
 requests
 scikit-learn
+matplotlib
+numpy
+geopandas
+folium
