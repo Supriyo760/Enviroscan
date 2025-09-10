@@ -98,7 +98,7 @@ def plot_heatmap(df):
 
 """real-time dashboard and alerts(streamlit)"""
 
-!pip install streamlit
+
 !pip install pyngrok
 
 !pip install -q streamlit pyngrok
