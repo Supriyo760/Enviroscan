@@ -2,3 +2,4 @@ streamlit
 osmnx
 pandas
 requests
+scikit-learn
