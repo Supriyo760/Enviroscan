@@ -168,7 +168,7 @@ time.sleep(5)
 # ✅ Step 10: Open an ngrok tunnel to port 8501
 
 # ✅ Step 11: Print the public URL
-print("🌐 Your Streamlit app is live at:", public_url)
+
 
 # 1️⃣ Install required packages
 
