@@ -9,7 +9,7 @@ Original file is located at
 data set of loader
 """
 
-!pip install osmnx
+
 import pandas as pd
 import requests
 import osmnx as ox
