@@ -99,9 +99,9 @@ def plot_heatmap(df):
 """real-time dashboard and alerts(streamlit)"""
 
 
-!pip install pyngrok
 
-!pip install -q streamlit pyngrok
+
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
@@ -130,7 +130,7 @@ def plot_heatmap(df):
 #         """)
 
 # ✅ Step 1: Install required packages
-!pip install pyngrok streamlit --quiet
+
 
 # ✅ Step 2: Import necessary libraries
 from pyngrok import ngrok
@@ -172,7 +172,7 @@ public_url = ngrok.connect(8501)
 print("🌐 Your Streamlit app is live at:", public_url)
 
 # 1️⃣ Install required packages
-!pip install pyngrok streamlit --quiet
+
 
 # 2️⃣ Imports
 from pyngrok import ngrok
@@ -224,7 +224,7 @@ public_url = ngrok.connect(8501)
 print("🌐 Your Streamlit app is live here:", public_url)
 
 # Install required packages (run once)
-!pip install --quiet streamlit pyngrok
+
 
 import os
 import time
