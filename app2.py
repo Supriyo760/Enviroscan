@@ -260,7 +260,7 @@ with open("app.py", "w") as f:
     f.write(app_code)
 
 # Kill previous Streamlit instances
-subprocess.run(["pkill", "-f", "streamlit"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
 
 # Disconnect any existing ngrok tunnels to avoid free-tier limits
 for tunnel in ngrok.get_tunnels():
