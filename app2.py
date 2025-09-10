@@ -219,8 +219,6 @@ time.sleep(15)
 # Then create ngrok tunnel
 from pyngrok import ngrok
 ngrok.set_auth_token("32SlneBxn5rvtKCuoIMTuDOkASV_5YnDn6RerRqkhVmkYQjMv")
-public_url = ngrok.connect(8501)
-print("🌐 Your Streamlit app is live here:", public_url)
 
 # Install required packages (run once)
 
