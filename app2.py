@@ -204,10 +204,10 @@ with open("app.py", "w") as f:
 time.sleep(5)
 
 # 8️⃣ Open ngrok tunnel on port 8501
-public_url = ngrok.connect(8501)
+
 
 # 9️⃣ Display the public URL
-print(f"🌐 Your Streamlit app is live here: {public_url}")
+
 
 # Start Streamlit in background
 
