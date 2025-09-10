@@ -129,7 +129,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "VKyF_DdEw0Ja"
       },
@@ -154,7 +154,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "CSuYTXwN4WyK"
       },
@@ -189,7 +189,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "aFR9rj_5AczR"
       },
@@ -220,7 +220,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -284,7 +284,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -330,7 +330,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -393,7 +393,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -453,7 +453,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -487,7 +487,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "background_save": true,
@@ -582,7 +582,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "mNMdYEphxuK8"
       },
