@@ -263,8 +263,6 @@ with open("app.py", "w") as f:
 
 
 # Disconnect any existing ngrok tunnels to avoid free-tier limits
-for tunnel in ngrok.get_tunnels():
-    ngrok.disconnect(tunnel.public_url)
 
 # Start Streamlit app in the background
 streamlit_process = subprocess.Popen(["streamlit", "run", "app.py"])
