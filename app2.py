@@ -211,7 +211,7 @@ public_url = ngrok.connect(8501)
 print(f"🌐 Your Streamlit app is live here: {public_url}")
 
 # Start Streamlit in background
-!streamlit run app.py &> /content/logs.txt &
+
 
 # Give more time for Streamlit to start (e.g., 15 seconds)
 import time
