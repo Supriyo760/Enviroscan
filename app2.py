@@ -180,7 +180,7 @@ import time
 import os
 
 # 3️⃣ Kill any existing Streamlit instance (clean slate)
-!pkill streamlit
+
 
 # 4️⃣ Set your ngrok authtoken here (replace with your real token)
 NGROK_AUTHTOKEN = "32SlneBxn5rvtKCuoIMTuDOkASV_5YnDn6RerRqkhVmkYQjMv"
