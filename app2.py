@@ -198,7 +198,7 @@ with open("app.py", "w") as f:
     f.write(app_code)
 
 # 6️⃣ Start Streamlit app in background
-get_ipython().system_raw("streamlit run app.py &")
+
 
 # 7️⃣ Wait for Streamlit server to start
 time.sleep(5)
